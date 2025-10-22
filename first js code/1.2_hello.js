@@ -1,2 +1,3 @@
 console.log('hello world');
 console.log('hello world');
+consol.log('hello Ashik'):
