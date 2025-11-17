@@ -16,3 +16,15 @@ let 99name = 'Munna';   // Not Valid
 
 
 Conxt TITLE = 'I Love You'; 
+
+========================================================================
+ // This isa single line comment 
+ //this is another single line comment
+
+ /*
+ this 
+ is a 
+ multi line
+ comment
+ */
+ 
