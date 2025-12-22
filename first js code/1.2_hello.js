@@ -3,7 +3,7 @@ console.log('hello world');
 consol.log('hello Ashik'):
 consol.log('hello Ashik2');
 consol.log('hello  munna');
-consol.log('helloc munnaa');
+consol.log('hello munnaa');
 
 // first_name 
 // firstName
@@ -37,6 +37,7 @@ num1 = num1 + num2
 consol.log(num1);
 
 =======================================================================
+
 
 
 
