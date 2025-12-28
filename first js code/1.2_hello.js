@@ -1,7 +1,7 @@
 console.log('hello world');
 console.log('hello world');
 consol.log('hello Ashik'):
-consol.log('hello   Ashik2');
+consol.log('hello Ashik2');
 consol.log('hello  munna');
 consol.log('hello munnaa');
 
@@ -37,6 +37,7 @@ num1 = num1 + num2
 consol.log(num1);
 
 =======================================================================
+
 
 
 
